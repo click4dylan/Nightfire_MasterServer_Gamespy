@@ -1,0 +1,9 @@
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\obj\x86\Debug\NightfireMasterServer.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\bin\x86\Debug\GamespyMasterServer.exe
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\bin\x86\Debug\GamespyMasterServer.pdb
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\bin\x86\Debug\GamespyMasterServer.xml
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\obj\x86\Debug\GamespyMasterServer.Resources.resources
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\obj\x86\Debug\GamespyMasterServer.exe
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\obj\x86\Debug\GamespyMasterServer.xml
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\obj\x86\Debug\GamespyMasterServer.pdb
+I:\Visual Studio 2012\NightfireMasterServer\NightfireMasterServer\bin\x86\Debug\GamespyMasterServer.exe.config
